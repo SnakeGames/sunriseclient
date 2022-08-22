@@ -8,7 +8,7 @@ Developers:
 | Developer    | Developer Tasks|
 | ----------- | ----------- |
 | SnakeGames#6611 (Zaine)      | Main Developer - Getting base down       |
-| Need a Second Developer   | No Tasks        |
+| Deepfried Chips   | Getting a Launcher made        |
 
 ----
 
@@ -23,6 +23,8 @@ Tasks:
 - [ ] Keystrokes
 
 - [ ] Discord RPC
+
+- [ ] Launcher
 
 ---
 
