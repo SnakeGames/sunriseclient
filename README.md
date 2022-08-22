@@ -26,6 +26,8 @@ Tasks:
 
 - [ ] Launcher
 
+- [ ] Figura integration possible?
+
 ---
 
 [Join Our Discord](https://discord.gg/VsgXaMQufJ)
